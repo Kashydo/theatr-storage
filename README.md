@@ -1,6 +1,6 @@
 # theatr-storage
 
-<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><img src="https://giphy.com/embed/3o7bu3oKnrXTK94dAA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div><p><a href="https://giphy.com/gifs/nycballet-dance-ballet-3o7bu3oKnrXTK94dAA">via GIPHY</a></p>
+<img src="https://giphy.com/embed/3o7bu3oKnrXTK94dAA" width="100%" height="100%" style="position:absolute">
 Welcome to the Theatre Warehouse project! 🎭📦
 
 Project Overview
