@@ -1,6 +1,6 @@
 # theatr-storage
 
-<img src="https://giphy.com/embed/3o7bu3oKnrXTK94dAA" width="100%" height="100%" style="position:absolute">
+<img src="https://giphy.com/embed/3o7bu3oKnrXTK94dAA" width="600">
 Welcome to the Theatre Warehouse project! 🎭📦
 
 Project Overview
