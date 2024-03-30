@@ -1,5 +1,6 @@
 # theatr-storage
-![](https://giphy.com/gifs/nycballet-dance-ballet-3o7bu3oKnrXTK94dAA.gif)
+
+![](https://giphy.com/gifs/nycballet-dance-ballet-3o7bu3oKnrXTK94dAA)
 Welcome to the Theatre Warehouse project! 🎭📦
 
 Project Overview
