@@ -4,7 +4,7 @@
 <p>Welcome to the Theatre Warehouse project! 🎭📦</p>
 </div>
 
-##Project Overview
+## Project Overview
 The goal of this project is to create a relational database system for storing theatrical props (costumes, props, stage furniture, etc.) along with a user interface. Having worked in the theatre industry, I noticed a lack of efficient inventory management software, particularly for costumes.
 
 Technologies Used
@@ -31,13 +31,7 @@ The database includes the following fields:
 - Quantity: Number of items available.
 - Unit Price: Cost per item.
 
-##Contributing
+## Contributing
 Contributions are welcome to improve and expand the functionality of the Theatre Warehouse project. Feel free to submit issues or pull requests.
 
 Happy Theatrical Inventory Management! 🎬🔍
-
-
-
-
-
-
