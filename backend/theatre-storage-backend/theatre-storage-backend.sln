@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "theatre-storage-backend", "theatre-storage-backend.csproj", "{8FD032E1-277D-424E-B586-DA280E3D81DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theatr-storage-backend-test", "..\theatr-storage-backend-test\theatr-storage-backend-test.csproj", "{CEE781A1-9E2B-4923-A12D-D30B0C48ACAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD032E1-277D-424E-B586-DA280E3D81DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD032E1-277D-424E-B586-DA280E3D81DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD032E1-277D-424E-B586-DA280E3D81DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD032E1-277D-424E-B586-DA280E3D81DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE781A1-9E2B-4923-A12D-D30B0C48ACAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE781A1-9E2B-4923-A12D-D30B0C48ACAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE781A1-9E2B-4923-A12D-D30B0C48ACAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE781A1-9E2B-4923-A12D-D30B0C48ACAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4226A06-6882-4D2F-B8FF-91280E8911F8}
+	EndGlobalSection
+EndGlobal
