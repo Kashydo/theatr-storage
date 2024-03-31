@@ -1,5 +1,5 @@
 <div align="center">
-<h1>theatr-storage</h1>
+<h1>theatre-storage</h1>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm02ZDFvb29yNmxhcHN0dzJ2ajZzcHBzampteWJ6eWYwbjRyMjAyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3oKnrXTK94dAA/giphy.gif" width="600">
 <p>Welcome to the Theatre Warehouse project! 🎭📦</p>
 </div>
